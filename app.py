@@ -1,3 +1,3 @@
-message = "Welcome to my Data Science project"
+message = "Welcome to my AI and Data Science project"
 
 print(message)
